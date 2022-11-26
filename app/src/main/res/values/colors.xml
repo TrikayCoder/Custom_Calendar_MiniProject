@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--    Palette 41-->
+    <color name="Fresh_Guacamole_01">#0096D1</color>
+    <color name="Fresh_Guacamole_02">#FFF4EA</color>
+    <color name="Fresh_Guacamole_03">#A8EAD5</color>
+    <color name="Fresh_Guacamole_04">#3EBDC6</color>
+    <color name="Fresh_Guacamole_05">#D6EDF7</color>
+
 </resources>
